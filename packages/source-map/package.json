@@ -1,6 +1,6 @@
 {
 	"name": "@volar/source-map",
-	"version": "0.25.18",
+	"version": "0.25.19",
 	"main": "out/index.js",
 	"license": "MIT",
 	"files": [
@@ -13,6 +13,6 @@
 		"directory": "packages/source-map"
 	},
 	"dependencies": {
-		"@volar/shared": "^0.25.18"
+		"@volar/shared": "^0.25.19"
 	}
 }
