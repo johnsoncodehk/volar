@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@volar/vscode-server",
-	"version": "0.25.22",
+	"version": "0.25.23",
 	"license": "MIT",
 	"files": [
 		"out/**/*.js",
@@ -16,6 +16,6 @@
 		"upath": "^2.0.1",
 		"vscode-languageserver": "^7.1.0-next.4",
 		"vscode-languageserver-textdocument": "^1.0.1",
-		"vscode-vue-languageservice": "^0.25.22"
+		"vscode-vue-languageservice": "^0.25.23"
 	}
 }
