@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@volar/vscode-client",
-	"version": "0.25.28",
+	"version": "0.26.0",
 	"license": "MIT",
 	"engines": {
 		"vscode": "latest"
@@ -16,7 +16,7 @@
 		"directory": "packages/vscode-client"
 	},
 	"dependencies": {
-		"@volar/shared": "^0.25.28",
+		"@volar/shared": "^0.26.0",
 		"@vue/compiler-sfc": "^3.0.11",
 		"@vue/reactivity": "^3.0.11",
 		"upath": "^2.0.1",
