@@ -146,6 +146,7 @@ export function register({ sourceFiles, getTsLs, htmlLs, pugLs }: ApiLanguageSer
 				}
 
 				if (searchRange) {
+					console.log(searchRange);
 					const tsRange = {
 						start: sourceMap.mappedDocument.positionAt(searchRange.start),
 						end: sourceMap.mappedDocument.positionAt(searchRange.end),
