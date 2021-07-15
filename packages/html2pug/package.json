@@ -1,6 +1,6 @@
 {
 	"name": "@volar/html2pug",
-	"version": "0.26.1",
+	"version": "0.26.2",
 	"main": "out/index.js",
 	"license": "MIT",
 	"files": [
