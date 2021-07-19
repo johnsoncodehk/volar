@@ -1,6 +1,6 @@
 {
 	"name": "vscode-vue-languageservice",
-	"version": "0.26.4",
+	"version": "0.26.5",
 	"main": "out/index.js",
 	"license": "MIT",
 	"files": [
@@ -16,11 +16,11 @@
 		"typescript": "latest"
 	},
 	"dependencies": {
-		"@volar/code-gen": "^0.26.4",
-		"@volar/html2pug": "^0.26.4",
-		"@volar/shared": "^0.26.4",
-		"@volar/source-map": "^0.26.4",
-		"@volar/transforms": "^0.26.4",
+		"@volar/code-gen": "^0.26.5",
+		"@volar/html2pug": "^0.26.5",
+		"@volar/shared": "^0.26.5",
+		"@volar/source-map": "^0.26.5",
+		"@volar/transforms": "^0.26.5",
 		"@vue/compiler-dom": "3.1.2",
 		"@vue/compiler-sfc": "3.1.2",
 		"@vue/reactivity": "3.1.2",
@@ -34,7 +34,7 @@
 		"vscode-json-languageservice": "^4.1.5",
 		"vscode-languageserver": "^8.0.0-next.1",
 		"vscode-languageserver-textdocument": "^1.0.1",
-		"vscode-pug-languageservice": "^0.26.4",
-		"vscode-typescript-languageservice": "^0.26.4"
+		"vscode-pug-languageservice": "^0.26.5",
+		"vscode-typescript-languageservice": "^0.26.5"
 	}
 }
